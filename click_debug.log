@@ -1,0 +1,152 @@
+--- CLICKED at Сб 02 мая 2026 20:02:10 MSK ---
+Запускаем zenity через dbus-launch...
+--- CLICKED at Сб 02 мая 2026 20:02:39 MSK ---
+Запускаем zenity через dbus-launch...
+--- CLICKED at Сб 02 мая 2026 20:06:39 MSK ---
+Запускаем zenity через dbus-launch...
+--- CLICKED at Сб 02 мая 2026 20:20:40 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 58: local: can only be used in a function
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 59: local: can only be used in a function
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 63: local: can only be used in a function
+Обрабатываемые виджеты: 
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 66: local: can only be used in a function
+Всего собрано частей: 0
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 83: local: can only be used in a function
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:24:28 MSK ---
+Обрабатываемые виджеты: cpu
+memory
+disk
+load
+top_process
+Вывод виджета 'cpu': 'CPU: 94%'
+Вывод виджета 'memory': 'RAM: 46%'
+Вывод виджета 'disk': 'Disk: 18%'
+Вывод виджета 'load': 'Load: 2.78'
+Вывод виджета 'top_process': 'Top: code (6%)'
+Всего собрано частей: 5
+--- Финальное сообщение для уведомления ---
+CPU: 94%
+RAM: 46%
+Disk: 18%
+Load: 2.78
+Top: code (6%)
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:35:13 MSK ---
+Обрабатываемые виджеты: cpu
+memory
+disk
+load
+top_process
+Вывод виджета 'cpu': 'CPU: 92%'
+Вывод виджета 'memory': 'RAM: 45%'
+Вывод виджета 'disk': 'Disk: 18%'
+Вывод виджета 'load': 'Load: 2.32'
+Вывод виджета 'top_process': 'Top: code (6%)'
+Всего собрано частей: 5
+--- Финальное сообщение для уведомления ---
+CPU: 92%
+RAM: 45%
+Disk: 18%
+Load: 2.32
+Top: code (6%)
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:44:51 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:44:53 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:46:49 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:46:50 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:46:53 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:47:08 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:47:29 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:50:01 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 21:55:47 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 23:18:38 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 23:21:40 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Сб 02 мая 2026 23:48:26 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- CLICKED at Вс 03 мая 2026 14:49:01 MSK ---
+/home/RDP/Desktop/1/dashboard-plugin/dashboard.sh: line 91: local: can only be used in a function
+Обрабатываемые виджеты: 
+Всего собрано частей: 0
+--- Финальное сообщение для уведомления ---
+
+----------------------------------------
+--- Zenity Test Click at Вс 03 мая 2026 22:02:20 MSK ---
+Attempting to launch zenity...
+--- Zenity Test Click at Вс 03 мая 2026 22:02:39 MSK ---
+Attempting to launch zenity...
+--- Zenity Test Click at Вс 03 мая 2026 22:06:16 MSK ---
+Attempting to launch zenity...

@@ -1,0 +1,49 @@
+{
+  "separator": " | ",
+  "widgets": [
+    {
+      "type": "cpu",
+      "icon": "💻"
+    },
+    {
+      "type": "memory_detailed",
+      "icon": "🧠"
+    },
+    {
+      "type": "disk",
+      "icon": "💾"
+    },
+    {
+      "type": "load",
+      "icon": "📈"
+    },
+    {
+      "type": "top_process",
+      "icon": "🔝"
+    },
+    {
+      "type": "cpu_temp",
+      "icon": "🌡️",
+      "thresholds": {
+        "warning": 70,
+        "critical": 85
+      }
+    },
+    {
+      "type": "uptime",
+      "icon": "⏳"
+    },
+    {
+      "type": "journal_errors",
+      "icon": "⚠️"
+    },
+    {
+      "type": "auth_failures",
+      "icon": "🛡️",
+      "thresholds": {
+        "critical": 20
+      },
+      "alert_on_threshold": true
+    }
+  ]
+}
