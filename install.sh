@@ -6,8 +6,8 @@ set -e # Прекратить выполнение при ошибке
 
 # --- Переменные ---
 # URL вашего репозитория на GitHub (ЗАМЕНИТЕ %%USER%% и %%REPO%%)
-GITHUB_USER="%%USER%%"
-GITHUB_REPO="%%REPO%%"
+GITHUB_USER="alfazulu196"
+GITHUB_REPO="dashboard-plugin"
 BASE_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main"
 
 # Директория для установки
