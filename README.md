@@ -18,7 +18,7 @@
 Установка очень проста и выполняется одной командой. Откройте терминал и выполните:
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/%%USER%%/%%REPO%%/main/dashboard-plugin/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/alfazulu196/dashboard-plugin/main/dashboard-plugin/install.sh)
 ```
 
 **ВАЖНО:** Замените `%%USER%%` на ваше имя пользователя GitHub и `%%REPO%%` на имя вашего репозитория.
